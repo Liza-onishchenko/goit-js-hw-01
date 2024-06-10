@@ -16,5 +16,3 @@ console.log (makeTransaction(10, 500));
 // console.log(makeTransaction(10, 500)); // "You ordered 10 droids worth 5000 credits!"
 
 
-
-
